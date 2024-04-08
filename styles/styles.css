@@ -1,0 +1,26 @@
+section{
+  border: 2px solid green;
+}
+
+.allTheLists {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+}
+
+.allDivs div {
+  border: 1px solid black;
+  padding: 72.8px
+  size: 50%;
+}
+
+.cross-out {
+  text-decoration: line-through;
+}
+
+
+}
+
+
+
+
